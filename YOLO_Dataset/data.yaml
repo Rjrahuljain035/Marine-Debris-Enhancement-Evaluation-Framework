@@ -1,0 +1,22 @@
+
+path: YOLO_Dataset
+
+train: images/train
+val: images/val
+
+names:
+
+  0: trash branch
+  1: trash etc
+  2: trash fabric
+  3: trash fishing gear
+  4: trash metal
+  5: trash net
+  6: trash paper
+  7: trash plastic
+  8: trash rope
+  9: trash rubber
+  10: trash tarp
+  11: trash unknown instance
+  12: trash wood
+  13: trash wreckage

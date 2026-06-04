@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+
+title: Marine Debris Enhancement Evaluation Framework (MDEEF)
+
+authors:
+  - family-names: Jain
+    given-names: Rahul
+
+message: Please cite this repository if used.
+
+version: 1.0
+
+license: MIT
